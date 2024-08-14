@@ -27,6 +27,6 @@ const myarr = [
 ]
 
 myarr.forEach((item) => {
-    console.log(item.lib);
+    console.log(item.lang);
     
 })
