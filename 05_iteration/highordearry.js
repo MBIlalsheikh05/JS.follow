@@ -30,3 +30,9 @@ myarr.forEach((item) => {
     console.log(item.lang);
     
 })
+
+
+myarr.forEach((item) => {
+    console.log(item.lib);
+    
+})
