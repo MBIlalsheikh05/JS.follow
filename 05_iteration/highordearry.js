@@ -36,3 +36,5 @@ myarr.forEach((item) => {
     console.log(item.lib);
     
 })
+
+console.log('Bilal');
