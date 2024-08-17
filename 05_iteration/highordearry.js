@@ -38,3 +38,4 @@ myarr.forEach((item) => {
 })
 
 console.log('Bilal');
+console.log('Sheikh');
