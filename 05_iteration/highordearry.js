@@ -37,4 +37,6 @@ myarr.forEach((item) => {
     
 })
 
+console.log('item');
+
 
